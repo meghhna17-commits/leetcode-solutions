@@ -10,6 +10,7 @@
 | [0182-duplicate-emails](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
