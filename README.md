@@ -25,9 +25,11 @@
 | [0189-rotate-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [4001-aggregate-two-time-series](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [4001-aggregate-two-time-series](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 <!---LeetCode Topics End-->
