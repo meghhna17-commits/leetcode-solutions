@@ -42,9 +42,14 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0796-rotate-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
