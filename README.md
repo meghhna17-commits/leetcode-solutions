@@ -41,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -52,4 +53,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
