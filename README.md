@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
