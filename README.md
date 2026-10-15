@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0048-rotate-image](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -47,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -82,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
