@@ -45,6 +45,7 @@
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +165,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
