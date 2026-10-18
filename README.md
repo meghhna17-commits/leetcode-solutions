@@ -30,6 +30,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -121,6 +122,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
