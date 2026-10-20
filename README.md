@@ -56,6 +56,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## Two Pointers
@@ -137,6 +138,7 @@
 | [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
