@@ -20,6 +20,7 @@
 | [0007-reverse-integer](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
@@ -129,6 +130,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -202,4 +204,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
