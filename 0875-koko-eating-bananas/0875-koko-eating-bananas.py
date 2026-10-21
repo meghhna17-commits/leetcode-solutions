@@ -9,7 +9,7 @@ class Solution(object):
             total = 0
 
             for i in range(len(piles)):
-                total += (piles[i] + mid - 1) // mid
+                total += piles[i] // mid + (1 if piles[i] % mid != 0 else 0)
 
             if total <= h:
                 ans = mid
