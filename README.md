@@ -51,6 +51,7 @@
 | [0229-majority-element-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -87,6 +88,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@
 | [0118-pascals-triangle](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -139,6 +142,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -158,6 +162,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
