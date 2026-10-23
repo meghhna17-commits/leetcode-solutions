@@ -63,6 +63,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## Two Pointers
@@ -153,6 +154,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +195,7 @@
 | [0048-rotate-image](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
