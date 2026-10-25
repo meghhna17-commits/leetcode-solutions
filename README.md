@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -84,6 +85,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -103,6 +105,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
