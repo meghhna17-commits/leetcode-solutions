@@ -93,6 +93,7 @@
 | [0796-rotate-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@
 | [0242-valid-anagram](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
