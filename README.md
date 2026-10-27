@@ -88,6 +88,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0022-generate-parentheses](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -131,6 +132,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -254,6 +256,11 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
