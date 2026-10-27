@@ -21,6 +21,7 @@
 | [0009-palindrome-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -139,6 +140,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
