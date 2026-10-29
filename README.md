@@ -42,6 +42,7 @@
 | [0073-set-matrix-zeroes](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -174,6 +175,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -263,4 +265,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
