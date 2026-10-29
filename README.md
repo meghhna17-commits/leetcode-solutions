@@ -28,6 +28,7 @@
 | [0507-perfect-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/meghhna17-commits/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
